@@ -1,5 +1,5 @@
 {
-  "name": "react-native-newrelic",
+  "name": "@keypr/react-native-newrelic",
   "version": "1.1.1",
   "description": "New Relic wrapper for React Native",
   "main": "index.js",
@@ -54,7 +54,7 @@
     "Logger"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://cryptkeypr.jfrog.io/cryptkeypr/api/npm/npm"
   },
   "nativePackage": true,
   "babel": {
